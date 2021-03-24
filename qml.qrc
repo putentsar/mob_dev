@@ -3,6 +3,9 @@
         <file>main.qml</file>
         <file>qtquickcontrols2.conf</file>
         <file>facebook.png</file>
+        <file>sound.png</file>
+        <file>sound1.png</file>
+        <file>sample.mp4</file>
     </qresource>
     <qresource prefix="/images"/>
     <qresource prefix="/files"/>

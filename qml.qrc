@@ -6,6 +6,15 @@
         <file>sound.png</file>
         <file>sound1.png</file>
         <file>sample.mp4</file>
+        <file>pause.png</file>
+        <file>pause-24.png</file>
+        <file>C:/Users/semyo/Downloads/play-24.png</file>
+        <file>play-24.png</file>
+        <file>pause-64.png</file>
+        <file>play-64.png</file>
+        <file>Page1Form.ui.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>Page3Form.qml</file>
     </qresource>
     <qresource prefix="/images"/>
     <qresource prefix="/files"/>
